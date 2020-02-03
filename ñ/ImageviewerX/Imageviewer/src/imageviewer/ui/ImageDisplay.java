@@ -1,4 +1,6 @@
-package imageviewerx;
+package imageviewer.ui;
+
+import imageviewer.model.Image;
 
 public interface ImageDisplay {
     

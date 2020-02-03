@@ -1,4 +1,6 @@
-package imageviewerx;
+package imageviewer.control;
+
+import imageviewer.control.Command;
 
 public class ExitCommand implements Command {
 

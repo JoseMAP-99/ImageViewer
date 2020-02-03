@@ -1,5 +1,7 @@
-package imageviewerx;
+package imageviewer.ui.swing;
 
+import imageviewer.ui.ImageDisplay;
+import imageviewer.model.Image;
 import java.awt.Graphics;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

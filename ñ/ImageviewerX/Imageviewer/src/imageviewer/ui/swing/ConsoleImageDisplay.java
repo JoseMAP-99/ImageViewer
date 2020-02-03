@@ -1,4 +1,7 @@
-package imageviewerx;
+package imageviewer.ui.swing;
+
+import imageviewer.ui.ImageDisplay;
+import imageviewer.model.Image;
 
 public class ConsoleImageDisplay implements ImageDisplay {
 

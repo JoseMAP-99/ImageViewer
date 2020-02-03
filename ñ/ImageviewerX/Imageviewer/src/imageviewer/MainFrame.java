@@ -1,5 +1,7 @@
-package imageviewerx;
+package imageviewer;
 
+import imageviewer.control.Command;
+import imageviewer.ui.swing.SwingImageDisplay;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;

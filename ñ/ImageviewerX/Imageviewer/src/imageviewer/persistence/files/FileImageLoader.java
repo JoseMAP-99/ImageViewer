@@ -1,5 +1,7 @@
-package imageviewerx;
+package imageviewer.persistence.files;
 
+import imageviewer.persistence.ImageLoader;
+import imageviewer.model.Image;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
